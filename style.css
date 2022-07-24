@@ -7,6 +7,9 @@ header {
   margin-top: 1rem;
   position: absolute;
 }
+body {
+  margin: 0 0.8rem;
+}
 
 .container {
   border-radius: 4%;
@@ -64,6 +67,6 @@ input {
   border-radius: 0.5rem;
   border: none;
   box-shadow: 1px 2px 5px 2px;
-
   font-size: 1rem;
+  padding: 5px;
 }
