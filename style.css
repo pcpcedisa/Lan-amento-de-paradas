@@ -22,8 +22,8 @@ header {
   flex-direction: column;
 }
 img {
-  width: 200px;
-  height: 75px;
+  width: 12.5rem;
+  height: 4.68rem;
 }
 
 form {
@@ -34,10 +34,9 @@ form {
 }
 
 h1 {
-  position: relative;
-  right: 1rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  font-size: 2rem;
 }
 label {
   display: flex;
@@ -60,7 +59,7 @@ button {
 }
 
 input {
-  margin-top: 5px;
+  margin-top: 0.31rem;
   height: 2rem;
   border-radius: 0.5rem;
   border: none;
